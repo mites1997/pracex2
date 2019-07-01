@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9692e78-609f-4229-a910-a94097f832d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/ReadFileAndConvertToUpperCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReverseinputTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReadFileAndConvertToUpperCaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Checkevenwithbooleanreturn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Factorialwithintandlong.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/GradesComputing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Reverseinput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Initializeanddisplaywithotherclass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Poweroffour.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/CheckevenwithbooleanreturnTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="24" column="30" selection-start-line="23" selection-start-column="3" selection-end-line="24" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReverseinputTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/PoweroffourTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/CheckevenwithbooleanreturnTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/testoffile.txt" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReadcontentoftextfileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/WordfrequencyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Wordfrequency.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/AvgminmaxTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Avgminmax.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/GradesComputingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/FactorialwithintandlongTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/InitializeanddisplaywithotherclassTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/WordFrequencyCountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/test2.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Readcontentusingbytearray.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReadcontentusingbytearrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Readcontentoftextfile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/final.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/file2.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/intial.txt" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReadFileAndConvertToUpperCaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Checkevenwithbooleanreturn.java" />
+        <option value="$PROJECT_DIR$/../practiceex3withtest/src/main/test/com/stackroute/pex3/ChessPatternTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/WordFrequencyCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Factorialwithintandlong.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/GradesComputing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Initializeanddisplaywithotherclass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Poweroffour.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/ReadFileAndConvertToUpperCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Reverseinput.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="149" />
+    <option name="y" value="67" />
+    <option name="width" value="1371" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practiceexercise2withtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceexercise2withtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceexercise2withtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceexercise2withtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceexercise2withtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceexercise2withtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceexercise2withtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceexercise2withtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceexercise2withtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceexercise2withtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceexercise2withtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceexercise2withtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceexercise2withtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceexercise2withtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="pex2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceexercise2withtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceexercise2withtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceexercise2withtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceexercise2withtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceexercise2withtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceexercise2withtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceexercise2withtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceexercise2withtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="pex2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Practiceextest1/src/main/test/ReversestringTest.java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute.pex2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2">
+    <configuration name="FactorialwithintandlongTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceexercise2withtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pex2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pex2.FactorialwithintandlongTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFileAndConvertToUpperCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceexercise2withtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pex2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pex2.ReadFileAndConvertToUpperCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceexercise2withtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pex2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pex2.ReadFileAndConvertToUpperCaseTest" />
+      <option name="METHOD_NAME" value="ReadFileShouldReturnNumberOfBytesCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceexercise2withtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pex2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pex2.ReadFileAndConvertToUpperCaseTest" />
+      <option name="METHOD_NAME" value="ReadFileShouldReturnNumberOfBytesCorrectly2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectlytest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceexercise2withtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pex2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pex2.ReadFileAndConvertToUpperCaseTest" />
+      <option name="METHOD_NAME" value="ReadFileShouldReturnNumberOfBytesCorrectlytest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" />
+        <item itemvalue="JUnit.ReadFileAndConvertToUpperCaseTest" />
+        <item itemvalue="JUnit.ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly" />
+        <item itemvalue="JUnit.ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectlytest2" />
+        <item itemvalue="JUnit.FactorialwithintandlongTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9692e78-609f-4229-a910-a94097f832d7" name="Default Changelist" comment="" />
+      <created>1561642131229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561642131229</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly - 2019.06.30 at 08h 29m 44s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest - 2019.06.30 at 08h 29m 50s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly2 - 2019.06.30 at 08h 31m 47s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly2 - 2019.06.30 at 08h 45m 01s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly - 2019.06.30 at 08h 45m 11s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly - 2019.07.01 at 08h 48m 59s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly - 2019.07.01 at 08h 49m 10s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly2 - 2019.07.01 at 08h 49m 17s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly2 - 2019.07.01 at 08h 49m 42s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly2 - 2019.07.01 at 08h 50m 08s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="149" y="67" width="1371" height="815" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="top" id="Ant Build" order="0" side_tool="true" weight="0.24886878" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2898113" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32880846" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32880846" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969835" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32880846" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32981133" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2573585" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32944608" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32944608" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32981133" />
+    </layout-to-restore>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/IdeaProjects/Practiceextest1/src/main/test/ReversestringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/IdeaProjects/Practiceextest1/src/main/java/com/stackroute/pe1/Reversestring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/testoffile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/WordfrequencyTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Wordfrequency.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/AvgminmaxTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Avgminmax.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/InitializeanddisplaywithotherclassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/WordFrequencyCountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/GradesComputingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReadcontentoftextfileTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReadcontentusingbytearrayTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/PoweroffourTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/FactorialwithintandlongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/file2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/intial.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/final.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../practiceex3withtest/src/main/test/com/stackroute/pex3/ChessPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Readcontentusingbytearray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/CheckevenwithbooleanreturnTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="30" selection-start-line="23" selection-start-column="3" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/WordFrequencyCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/ReadFileAndConvertToUpperCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReverseinputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Poweroffour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Initializeanddisplaywithotherclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/GradesComputing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Factorialwithintandlong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Checkevenwithbooleanreturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Reverseinput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReadFileAndConvertToUpperCaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>practiceexercise2withtest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
