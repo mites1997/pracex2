@@ -1,3 +1,5 @@
+//read a file and convert to upper case also return the data along with the length of file
+
 package com.stackroute.pex2;
 import java.io.*;
 import java.io.FileNotFoundException;

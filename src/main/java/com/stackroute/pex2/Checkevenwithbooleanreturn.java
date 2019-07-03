@@ -1,3 +1,5 @@
+//program to check if the number is even using boolean
+
 package com.stackroute.pex2;
 
 public class Checkevenwithbooleanreturn {

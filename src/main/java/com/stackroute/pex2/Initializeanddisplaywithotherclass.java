@@ -1,3 +1,4 @@
+//initialize one class and display the data in another class
 package com.stackroute.pex2;
 
 public class Initializeanddisplaywithotherclass {

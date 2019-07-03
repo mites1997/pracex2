@@ -1,8 +1,11 @@
+
+//program to check if the factorial is within the range of int and float
 package com.stackroute.pex2;
 
 public class Factorialwithintandlong {
     public String printIntFactorials()
     {  //integer factorial
+
         int i  = 1;
         int fn = 1;
         String output="";

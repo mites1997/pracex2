@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f9692e78-609f-4229-a910-a94097f832d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,11 +44,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReadFileAndConvertToUpperCaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="384">
+              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/testupper.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -106,15 +116,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/CheckevenwithbooleanreturnTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="24" column="30" selection-start-line="23" selection-start-column="3" selection-end-line="24" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -126,7 +127,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -151,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/final.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/file2.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/intial.txt" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReadFileAndConvertToUpperCaseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Checkevenwithbooleanreturn.java" />
         <option value="$PROJECT_DIR$/../practiceex3withtest/src/main/test/com/stackroute/pex3/ChessPatternTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/WordFrequencyCount.java" />
@@ -161,6 +161,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Poweroffour.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/ReadFileAndConvertToUpperCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/Reverseinput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pex2/testupper.txt" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReadFileAndConvertToUpperCaseTest.java" />
       </list>
     </option>
   </component>
@@ -177,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="149" />
     <option name="y" value="67" />
     <option name="width" value="1371" />
@@ -421,15 +423,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly - 2019.06.30 at 08h 29m 44s.xml">
-      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReadFileAndConvertToUpperCaseTest - 2019.06.30 at 08h 29m 50s.xml">
-      <configuration name="ReadFileAndConvertToUpperCaseTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly2 - 2019.06.30 at 08h 31m 47s.xml">
-      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly2 - 2019.06.30 at 08h 45m 01s.xml">
       <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" configurationId="JUnit" />
     </history-entry>
@@ -451,10 +444,18 @@
     <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly2 - 2019.07.01 at 08h 50m 08s.xml">
       <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest - 2019.07.01 at 11h 20m 09s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly2 - 2019.07.01 at 11h 22m 05s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadFileAndConvertToUpperCaseTest_ReadFileShouldReturnNumberOfBytesCorrectly2 - 2019.07.01 at 11h 22m 23s.xml">
+      <configuration name="ReadFileAndConvertToUpperCaseTest.ReadFileShouldReturnNumberOfBytesCorrectly2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="149" y="67" width="1371" height="815" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="top" id="Ant Build" order="0" side_tool="true" weight="0.24886878" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2898113" />
@@ -465,7 +466,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32880846" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32880846" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32880846" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39969835" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -699,10 +700,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pex2/testupper.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pex2/ReadFileAndConvertToUpperCaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="384">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

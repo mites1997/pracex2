@@ -1,3 +1,5 @@
+//Check if the string is palindrome and return string msg
+
 package com.stackroute.pex2;
 
 public class Reverseinput

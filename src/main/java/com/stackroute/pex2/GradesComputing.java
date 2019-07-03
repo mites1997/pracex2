@@ -1,3 +1,4 @@
+//compute the grades of students and find the average min and max
 package com.stackroute.pex2;
 
 import java.util.Scanner;
